@@ -1,0 +1,11 @@
+# IDE files
+.idea
+
+# Pycache files
+__pycache__
+
+# Log files
+*.txt
+
+# Setting files
+*.json

@@ -1,0 +1,9 @@
+MC-Clicker
+----------
+
+Author: Nikocraft
+Version: ALPHA-1.1
+
+[24/Jan/22 21:56:41] [MC-Clicker | MAIN] <Info> Initialize application ...
+[24/Jan/22 21:56:42] [MC-Clicker | MAIN] <Info> Run application ...
+[24/Jan/22 21:56:42] [MC-Clicker | MAIN] <Info> Quit application ...
